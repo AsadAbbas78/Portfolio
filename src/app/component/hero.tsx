@@ -11,7 +11,7 @@ const Hero = () => {
           <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
             <h1 className=":text-4xl  ml-24 font-medium">
               <h1 className=" text-yellow-500 font-serif font-bold text-5xl">
-                Hi.I'm Asad Abbas
+                Hi.I.m Asad Abbas
               </h1>
               <br className="hidden lg:inline-block " />
               <h5 className="text-[#6fddfb] font-serif  text-2xl">
