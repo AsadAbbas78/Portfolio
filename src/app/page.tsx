@@ -4,16 +4,21 @@ import { Contact } from "./component/contact";
 import Project from "./component/project";
 import About from "./component/about";
 import Skill from "./component/skill";
+import Navbar from "./component/navbar";
+import Footer from "./component/footer";
 
 
 export default function Home() {
   return (
    <div>
+    <Navbar/>
     <Hero/>
     <About/>
     <Skill/>
     <Project/>
     <Contact/>
+    <Footer/>
+    
     
    </div>
   );
