@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import React from "react";
 import { AiOutlineCloudDownload } from "react-icons/ai";
-
+import dynamic from "next/dynamic";
 const Navbar = () => {
   return (
     <div className="bg-white z-50 sticky top-0 font-serif">
@@ -37,6 +37,8 @@ const Navbar = () => {
       </header>
     </div>
   );
+  
 };
 
 export default Navbar;
+
