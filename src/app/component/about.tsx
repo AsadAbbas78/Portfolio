@@ -43,8 +43,8 @@ const About = () => {
                 Submit
               </button>
             </div>
-            <p className="text-sm mt-2 text-gray-500 mb-8 w-full"></p>
-            <div className="flex relative right-20">
+            
+            <div className="flex mt-5">
               <button className="bg-[#6fddfb] inline-flex py-3 px-5  items-center ml-4 hover:bg-white focus:outline-none text-white hover:text-[#6fddfb]  border rounded border-[#6fddfb] focus">
                 <FaGooglePlay className="text-2xl" />
 
