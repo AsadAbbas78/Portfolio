@@ -15,17 +15,8 @@ const Hero = () => {
               </h1>
               <br className="hidden lg:inline-block " />
               <h5 className="text-[#6fddfb] font-serif  text-2xl">
-                <Typewriter
-                  options={{
-                    strings: [
-                      "Web Developer",
-                      "UI/UI Designer",
-                      "Graphics Designer ",
-                    ],
-                    autoStart: true,
-                    loop: true,
-                  }}
-                />
+                Web Devloper
+                
               </h5>
             </h1>
             <p className="mb-8 h-30 w-50 ml-24 mt-2 text-black font-serif">
@@ -41,23 +32,11 @@ const Hero = () => {
             </p>
             <div className="flex justify-center">
               <button className="inline-flex text-white bg-[#6fddfb] mt-8 ml-24 hover:text-[#6fddfb] py-2 px-10  hover:bg-white rounded border  border-[#6fddfb] focus text-lg">
-                <Typewriter
-                  options={{
-                    strings: ["Hire Me"],
-                    autoStart: true,
-                    loop: true,
-                  }}
-                />
+                Hire Me
               </button>
 
               <button className="inline-flex text-[#6fddfb] bg-white mt-8 ml-10 hover:text-white py-2 px-10  hover:bg-[#6fddfb] rounded border  border-[#6fddfb] focus text-lg">
-                <Typewriter
-                  options={{
-                    strings: ["Let.s Talk"],
-                    autoStart: true,
-                    loop: true,
-                  }}
-                />
+                Let.s Talk
               </button>
             </div>
           </div>
