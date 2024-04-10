@@ -107,7 +107,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/logo/Project5.png")}
+                  src={require("../../../public/assests/logo/project5.png")}
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-2  border-[#6fddfb] focus bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest  title-font text-2xl font-medium text-[#6fddfb] mb-1">
@@ -135,7 +135,7 @@ const Project = () => {
                 <Image
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"
-                  src={require("../../../public/assests/logo/Project6.png")}
+                  src={require("../../../public/assests/logo/project6.png")}
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-2  border-[#6fddfb] focus bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest  title-font text-2xl font-medium text-[#6fddfb] mb-1">
