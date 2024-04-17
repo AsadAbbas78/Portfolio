@@ -4,7 +4,7 @@ import { FaApple } from "react-icons/fa6";
 import { FaGooglePlay } from "react-icons/fa6";
 const About = () => {
   return (
-    <div id="About" className="font-serif">
+    <div id="About">
       <section className="text-gray-600 body-font mt-10">
         <div className="container mx-auto flex flex-col px-5 py-24 justify-center items-center">
           <Image

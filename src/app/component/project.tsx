@@ -3,7 +3,7 @@ import React from "react";
 import Image from "next/image";
 const Project = () => {
   return (
-    <div id="Project" className="font-serif">
+    <div id="Project">
       <section className="text-gray-600 body-font mt-5">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-20">

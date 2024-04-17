@@ -8,7 +8,7 @@ import { CgCopyright } from "react-icons/cg";
 
 const Skill = () => {
   return (
-    <div id="Skill" className="font-serif">
+    <div id="Skill">
       <h1>
         <section className="text-gray-600 body-font">
           <div className="container px-5 py-24 mx-auto">
