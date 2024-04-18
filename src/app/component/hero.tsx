@@ -26,9 +26,9 @@ const Hero = () => {
     </div>
     <div className="lg:max-w-lg lg:w-80 md:w-1/2 w-5/6">
       <Image
-        className="object-cover object-center rounded"
+        className="object-cover object-center rounded h-[300px] w-[300px]"
         alt="hero"
-        src={require('../../../public/assests/logo/logo44.png')}
+        src={require('../../../public/assests/logo/asad 2.png')}
       />
     </div>
   </div>

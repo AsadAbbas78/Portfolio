@@ -8,9 +8,9 @@ const About = () => {
       <section className="text-gray-600 body-font mt-10">
         <div className="container mx-auto flex flex-col px-5 py-24 justify-center items-center">
           <Image
-            className="lg:w-2/7 md:w-3/7 w-5/7 mb-10 object-cover object-center rounded "
+            className="lg:w-2/7 md:w-3/7 w-5/7 mb-10 object-cover object-center rounded h-[300px] w-[400px] "
             alt="hero"
-            src={require("../../../public/assests/logo/assad2.jpg")}
+            src={require("../../../public/assests/logo/assad2.png")}
           />
           <div className="w-full md:w-2/3 flex flex-col mb-16 items-center text-center">
             <h1 className="title-font sm:text-4xl font-bold mb-3  text-yellow-500 mt-5">
